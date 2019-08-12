@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jia Kai\\source\\repos\\csharp-benchmark\\csharp-benchmark\\csharp-benchmark.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jia Kai\\source\\repos\\csharp-benchmark\\csharp-benchmark\\csharp-benchmark.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jia Kai\\source\\repos\\csharp-benchmark\\csharp-benchmark\\csharp-benchmark.csproj",
+        "projectName": "csharp-benchmark",
+        "projectPath": "C:\\Users\\Jia Kai\\source\\repos\\csharp-benchmark\\csharp-benchmark\\csharp-benchmark.csproj",
+        "packagesPath": "C:\\Users\\Jia Kai\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jia Kai\\source\\repos\\csharp-benchmark\\csharp-benchmark\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jia Kai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "BenchmarkDotNet": {
+              "target": "Package",
+              "version": "[0.11.5, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

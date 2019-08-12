@@ -1,0 +1,11 @@
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\bin\Release\netcoreapp2.2\csharp-benchmark.deps.json
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\bin\Release\netcoreapp2.2\csharp-benchmark.runtimeconfig.json
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\bin\Release\netcoreapp2.2\csharp-benchmark.runtimeconfig.dev.json
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\bin\Release\netcoreapp2.2\csharp-benchmark.dll
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\bin\Release\netcoreapp2.2\csharp-benchmark.pdb
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.csproj.CoreCompileInputs.cache
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.AssemblyInfoInputs.cache
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.AssemblyInfo.cs
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.dll
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.pdb
+C:\Users\Jia Kai\source\repos\csharp-benchmark\csharp-benchmark\obj\Release\netcoreapp2.2\csharp-benchmark.csprojAssemblyReference.cache
